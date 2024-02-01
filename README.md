@@ -10,7 +10,7 @@ Web Developer
 * 🤝  I'm open to collaborating on other innovative projects
 
 <a href="https://www.github.com/TobiTRy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MrTryy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/TobiTRy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -28,8 +28,8 @@ src="https://img.shields.io/github/followers/MrTryy?logo=github&style=for-the-ba
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TobiTRy"><img src="https://github-readme-stats.vercel.app/api?username=MrTryy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MrTryy's GitHub stats" /></a>
+<a href="http://www.github.com/TobiTRy"><img src="https://github-readme-stats.vercel.app/api?username=TobiTRy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TobiTRy's GitHub stats" /></a>
 
-<a href="http://www.github.com/MrTryy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MrTryy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/TobiTRy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TobiTRy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/MrTryy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTryy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/TobiTRy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiTRy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
